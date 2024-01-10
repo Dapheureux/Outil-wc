@@ -9,3 +9,5 @@ Concevez des programmes pour qu’ils soient connectés à d’autres programmes
 En suivant ces philosophies, les outils simples en ligne de commande Unix ont fait partie des outils d’ingénierie logicielle les plus utilisés, ce qui nous a permis de créer des pipelines de traitement de données textuelles très complexes à partir d’outils en ligne de commande simples. Il existe même un cours Coursera sur Linux et Bash pour l’ingénierie des données.
 
 Vous pouvez en savoir plus sur la philosophie Unix dans l’excellent livre The Art of Unix Programming.
+voici le lien du challenge :
+https://codingchallenges.fyi/challenges/challenge-wc/
